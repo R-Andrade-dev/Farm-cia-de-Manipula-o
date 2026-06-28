@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Farmácia de Manipulação",
+            "request": "launch",
+            "mainClass": "view.Principal",
+            "classPaths": [
+                "${workspaceFolder}/build/classes",
+                "${workspaceFolder}/lib/mysql-connector-j-9.7.0.jar"
+            ]
+        }
+    ]
+}
